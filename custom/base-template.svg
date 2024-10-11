@@ -10,7 +10,7 @@
    inkscape:version="1.2.1 (9c6d41e4, 2022-07-14)"
    sodipodi:docname="suspended.svg"
    xml:space="preserve"
-   inkscape:export-filename="rebooting.png"
+   inkscape:export-filename="poweroff.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -29,8 +29,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="0.40158089"
-     inkscape:cx="618.80434"
-     inkscape:cy="1536.4277"
+     inkscape:cx="992.32809"
+     inkscape:cy="1262.5103"
      inkscape:window-width="1609"
      inkscape:window-height="1176"
      inkscape:window-x="914"
@@ -40,7 +40,7 @@
      id="defs814"><color-profile
        name="_40-FHD_LCD-TV"
        xlink:href="file:///Library/ColorSync/Profiles/Displays/40%20FHD_LCD-TV-BCFE1440-F12D-86A9-C737-5ADAA0D5B65C.icc"
-       id="color-profile2932" /></defs><g
+       id="color-profile4319" /></defs><g
      inkscape:label="Background"
      inkscape:groupmode="layer"
      id="layer1"
@@ -122,4 +122,4 @@
          id="tspan2745"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.4249px;font-family:'Mukta Mahee';-inkscape-font-specification:'Mukta Mahee, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.26062"
          x="155.03146"
-         y="521.1814">Paper tablet is powered off</tspan></text></g></svg>
+         y="521.1814">PUT CUSTOM TEXT HERE</tspan></text></g></svg>
