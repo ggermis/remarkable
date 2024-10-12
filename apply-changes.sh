@@ -15,14 +15,20 @@ ssh -q remarkable mount -o remount,rw /
 # ---
 #  Copy all custom .png files
 # ---
+
+echo "Copying custom splash screens..."
 for PNG in custom/*.png; do
- 	echo scp "$PNG" remarkable:"/usr/share/remarkable/$(basename "$PNG")"
+ 	scp "$PNG" remarkable:"/usr/share/remarkable/$(basename "$PNG")"
 done
 
 # ---
 #  Copy custom templates
 # ---
 
+echo "Copying custom templates..."
+for TEMPLATE in custom/templates/GERMIS-* custom/templates/*.json; do
+	scp "$TEMPLATE" remarkable:"/usr/share/remarkable/templates/$(basename "$TEMPLATE")"
+done
 
 
 echo "Done"
